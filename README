@@ -1,1 +1,2 @@
 ESMatic modified and built with C++. Using the Gtk 3.0 GUI Toolkit. For 3D rendering it uses and supports OpenGL.
+ESMatic now supports multiple types of robots.
