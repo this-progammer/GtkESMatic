@@ -1,0 +1,6 @@
+#-*scon*-
+
+dir[] = "GtkESMatic//"
+
+if dir equ exists:
+  open $MINGW64.exe$ -flags equ $compile.py$
