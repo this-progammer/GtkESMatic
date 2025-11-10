@@ -8,3 +8,7 @@ Note :
       *App Run File*
 =========================
 - to run look for app "GtkMatic.exe"
+
+=================================================================
+
+-do not remove any dll files or lib files without them GtkMatic will not run
