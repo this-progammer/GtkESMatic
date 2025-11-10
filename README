@@ -12,3 +12,7 @@ Note :
 =================================================================
 
 -do not remove any dll files or lib files without them GtkMatic will not run
+
+# Early Compile Beta
+
+command : gcc main.cpp -o GtkMatic.exe $(pkg-config --cflags --libs gtk+-3.0)
