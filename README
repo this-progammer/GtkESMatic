@@ -3,3 +3,8 @@ ESMatic now supports multiple types of robots.
 
 Note :
   Main.cpp holds the mainframe for the application, there is no Mainframe.cpp in GtkESMatic.
+
+=========================
+      *App Run File*
+=========================
+- to run look for app "GtkMatic.exe"
