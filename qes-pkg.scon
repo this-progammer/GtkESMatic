@@ -1,5 +1,8 @@
 # *!qes-pkg.scon!*
 
+# Robotic package that your installing :
+# The robotic drivers, such as, motherboard, bluetooth
+# The robots source code
 global _robotic_pkg
 
 def open_pkg():
