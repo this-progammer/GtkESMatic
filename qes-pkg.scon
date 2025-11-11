@@ -6,4 +6,4 @@
 global _robotic_pkg
 
 def open_pkg():
-  open( _robotic_pic )
+  open(_robotic_pkg, "r")
