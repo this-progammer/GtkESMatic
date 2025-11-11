@@ -30,6 +30,6 @@ I have used Mingw64 to compile source code
 # =======================
 # Gtk themes for app ( if want )
 Adwaita Dark :
-  $GTK_THEME= Adwaita:Dark ./GtkMatic
+  $GTK_THEME= Adwaita:dark ./GtkMatic
 
 
