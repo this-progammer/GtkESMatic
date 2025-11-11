@@ -1,0 +1,6 @@
+# *!qes-pkg.scon!*
+
+global _robotic_pkg
+
+def open_pkg():
+  open( _robotic_pic )
