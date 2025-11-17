@@ -23,7 +23,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-config_mkproj = 'gcc main.cpp -o GtkMatic.exe $(pkg-config --cflags --libs gtk+-3.0)'
+config_mkproj = 'g++ main.cpp -o GtkMatic.exe $(pkg-config --cflags --libs gtk+-3.0)'
 
 def run_config():
   config_mkproj
