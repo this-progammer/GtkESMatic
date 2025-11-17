@@ -20,10 +20,10 @@ Note :
 
 # Early Compile Beta
 
-$gcc main.cpp -o GtkMatic.exe $(pkg-config --cflags --libs gtk+-3.0)
+$g++ main.cpp -o GtkMatic.exe $(pkg-config --cflags --libs gtk+-3.0)
 
-#--------------
-#    USED
+#--------------------
+#  Build Enviorment
 
 I have used Mingw64 to compile source code
 
@@ -31,5 +31,16 @@ I have used Mingw64 to compile source code
 # Gtk themes for app ( if want )
 Adwaita Dark :
   $GTK_THEME= Adwaita:dark ./GtkMatic
+
+==================
+  *-Compiler-*
+==================
+GtkESMatic compile using g++ compiler
+
+===============
+ *-standard-*
+===============
+GtkESMatic C++_STD = C++17
+
 
 
