@@ -32,14 +32,14 @@ I have used Mingw64 to compile source code
 Adwaita Dark :
   $GTK_THEME= Adwaita:dark ./GtkMatic
 
-==================
+================
   *-Compiler-*
-==================
-GtkESMatic compile using g++ compiler
+================
+GtkESMatic compiles with the g++ compiler
 
-===============
+==============
  *-standard-*
-===============
+==============
 GtkESMatic C++_STD = C++17
 
 
